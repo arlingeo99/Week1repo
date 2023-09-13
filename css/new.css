@@ -1,0 +1,42 @@
+#mn
+{
+    background-color: aqua;
+    border:20px;
+    margin:30px;
+    padding: 10px;
+}
+
+.n1
+{
+    background-color: brown;
+    border: 30px;
+    margin: 40px;
+    padding: 20px;
+    height: 400px;
+    width: 200px;
+    display: inline-block;
+}
+
+.n2
+{
+    background-color:yellow;
+    border: 30px;
+    margin: 40px;
+    padding: 20px;
+    height: 400px;
+    width: 200px;
+    display: inline-block;
+}
+
+
+#md{
+    background-color:palevioletred;
+    border:20px;
+    margin:30px;
+    padding: 10px;
+}
+
+.ex{
+    background-color: pink;
+    
+}
